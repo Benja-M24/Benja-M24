@@ -1,15 +1,22 @@
 <h1 align="center">Hi there 👋, I’m Benjamín Mármol</h1>
-<h3 align="center">I am passionate about Backend development</h3>
+<h3 align="center">I’m young passionate about Backend development</h3>
 
 <tb>
   
 <ol type='*'>
   <li>🔭 I’m currently working on my skills</li>
   <li>👯 I’m looking to collaborate on small proyects on python.</li>
-  <li>🤔 I’m looking for help to get a job.</li>
+  <li>🤔 I’m looking for a job.</li>
   <li>✨ I dream of someday working with artificial intelligence</li>
 </ol>
+
+<tb>
   
+<h3 align="left">Contact me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/benja-marmol/" target="blank"> <img align="center" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0/1590003577120?e=1620864000&v=beta&t=yuS1VjLn0LjRWsFaTRVJqTnKncH1yWPtugm0ZvJJOhk" alt="Benjamin Marmol" height="50" width="50" /></a>
+</p>
+
 <tb>
 
 <h3 align="left">Languages and software tools:</h3>
