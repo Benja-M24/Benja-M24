@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I’m Benjamín Mármol</h1>
+<h3 align="center">Apasionado en el desarrollo Web Frontend y Backend</h3>
 
-<!--
-**Benja-M24/Benja-M24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<tb>
+- 🔭 I’m currently working on my skills.
+- 🌱 I’m currently learning Django REST (json).
+- 👯 I’m looking to collaborate on small proyects on python.
+- 🤔 I’m looking for help to get a job.
 
-Here are some ideas to get you started:
+<h3 align="left">Lenguajes y herramientas:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+django 
+https://www.djangoproject.com/
+
+
+docker dotnet express figma firebase flutter git html5 ionic javascript laravel mongodb mysql nextjs nginx nodejs photoshop react reactnative tailwind vuejs
