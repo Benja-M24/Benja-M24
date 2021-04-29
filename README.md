@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I’m Benjamín Mármol</h1>
-<h3 align="center">I’m young passionate about Backend development</h3>
+<h3 align="center">I’m young, passionate about Back-end development</h3>
 
 <tb>
   
