@@ -4,10 +4,10 @@
 <tb>
   
 <ol type='*'>
-  <li>🔭 I’m currently working on my skills</li>
+  <li>🔭 I’m currently working on Accenture/li>
   <li>👯 I’m looking to collaborate on small proyects on python.</li>
-  <li>🤔 I’m looking for a job.</li>
-  <li>✨ I dream of someday working with artificial intelligence</li>
+  <!-- <li>🤔 I’m looking for a job.</li> 
+  <li>✨ I dream of someday working with artificial intelligence</li>-->
 </ol>
 
 <tb>
